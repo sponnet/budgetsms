@@ -1,0 +1,28 @@
+{
+  "name": "budgetsms",
+  "version": "0.0.1",
+  "description": "Sending SMS messages via budgetSMS service",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sponnet/budgetsms.git"
+  },
+  "keywords": [
+    "sms"
+  ],
+  "author": "Stefaan Ponnet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sponnet/budgetsms/issues"
+  },
+  "homepage": "https://github.com/sponnet/budgetsms",
+  "dependencies": {
+    "chai": "^1.9.1"
+  }
+}
