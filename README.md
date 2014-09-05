@@ -1,8 +1,10 @@
 # BudgetSMS
 
-BudgetSMS is a utility module which provides a transport for easy sending of SMS messages via the BudgetSMS website.
+BudgetSMS is a utility module which provides a transport for easy sending of SMS messages via the http://www.budgetsms.net/ website.
 
-## Quick Examples
+## Quick Example
+
+Create a budgetSMS account and fill in the config parameters below.
 
 ```javascript
 var budgetSMS = require('budgetsms');
