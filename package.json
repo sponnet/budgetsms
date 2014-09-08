@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/sponnet/budgetsms",
   "dependencies": {
-    "chai": "^1.9.1"
+    "chai": "^1.9.1",
+    "chai-fs": "^0.1.0"
   }
 }
