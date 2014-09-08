@@ -1,6 +1,6 @@
 {
   "name": "budgetsms",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sending SMS messages via budgetSMS service",
   "main": "lib/index.js",
   "directories": {
